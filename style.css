@@ -1,0 +1,55 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans",'굴림', 'gulem', sans-serif;
+    background-color: rgb(0, 255, 0);
+    color: black;
+}
+
+.wrapper {
+    background-color: rgb(0,255, 255);
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+    border: 5px solid rgb(255, 0, 0);
+
+}
+.title {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.quiz-sentence {
+    font-size: 2rem;
+    margin: 10px 0;
+    font-weight: bold;
+}
+button{
+    font-family: "Comic Sans MS", "Comic Sans",'굴림', 'gulem', sans-serif;
+}
+.score {
+    font-size: 1.2rem;
+}
+.inputFromKey {
+    width: 130px;
+    font-size: 1.4rem;
+}
+.quiz-numbering {
+    font-size: 1rem;
+}
+.select-link {
+    text-decoration: none;
+}
+.img31 {
+    visibility: hidden;
+}
+#hide {
+    text-align: center;
+    background-color : rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 1.0rem;
+    padding: 3px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 113px;
+}
